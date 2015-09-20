@@ -1,0 +1,9 @@
+source 'https://rubygems.org'
+
+gem 'faraday'
+gem 'escher'
+gem 'rack'
+
+gem 'faraday_middleware-escher'
+gem 'escher-rack_middleware'
+
