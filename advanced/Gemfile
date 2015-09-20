@@ -1,5 +1,6 @@
 source 'https://rubygems.org'
 
+gem 'faraday-cli'
 gem 'faraday'
 gem 'escher'
 gem 'rack'
